@@ -1,0 +1,1 @@
+{'Confirmed': 0, 'Deaths': 1, 'Recovered': 2, 'Active': 3, 'Incident_Rate': 4, 'People_Tested': 5, 'People_Hospitalized': 6, 'Mortality_Rate': 7, 'Testing_Rate': 8, 'Hospitalization_Rate': 9}
