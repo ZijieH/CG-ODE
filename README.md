@@ -1,6 +1,6 @@
 # CG-ODE
 
-CG-ODE is an overall framework for learning the co-evolutioin of nodes and edgees in multi-agent dynamical systems.
+CG-ODE is an overall framework for learning the co-evolutioin of nodes and edges in multi-agent dynamical systems.
 
 You can see our KDD 2021 paper [“**Coupled Graph ODE for Learning Interacting System Dynamics**”](https://dl.acm.org/doi/10.1145/3447548.3467385?sid=SCITRUS) for more details.
 
